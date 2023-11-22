@@ -1,0 +1,4 @@
+global.json
+.vs
+ngpsql_jsonelement_issue_repro/bin
+ngpsql_jsonelement_issue_repro/obj
